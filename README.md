@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @elke01
-- 👀 I’m interested in Databases
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on fun projects
+Hii👋, I'm a final year student taking Bachelor of Computer Science in Data Science at Monash University Malaysia. I have a strong interest in the world of Big Data and have aquired the relevant skillsets in data engineering and machine learning through my studies and projects. 
+
 
 
 <!---
