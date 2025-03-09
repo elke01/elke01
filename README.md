@@ -5,7 +5,7 @@ Hii👋, I'm a final year student taking Bachelor of Computer Science in Data Sc
 - Programming Languages : Python | R | Java | HTML (basic) | CSS (basic) | Javascript (basic)
 - Databases: SQL (Oracle, mySQL) | noSQL (MongoDB) | Cloud (Google Firebase)
 - Machine Learning & Data: Pandas, Numpy, Matplotlib, Pyplot, SciPy, Scikit-Learn, dplyr, tidyr, ggplot2
-- Dev Tools: Coding (VSCode, RStudio, Jupyter Notebook, Android Studio) | Visualization (Tableau, Figma, Canva) | Version Control (GitHub, GitLab) |  Microsoft Suite.
+- Dev Tools: Coding (VSCode, RStudio, Jupyter Notebook, Android Studio) | Visualization (Tableau, Power BI, Figma, Canva) | Automation (Automation Anywhere 360) | Version Control (GitHub, GitLab) |  Microsoft Suite.
 
 # Languages
 - English - Fluent
